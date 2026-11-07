@@ -14,7 +14,7 @@ The game combines traditional tower defense mechanics with the Pokémon universe
 - **UI & Graphics:** Java Swing, Custom 2D Graphics & GIFs
 - **Data Management:** CSV loaders for configurations and Pokémon stats
 - **Audio:** WAV sound effects and background tracks
-- **Build System / Tools:** Java JAR / Makefile / IDE compilation
+- **Build System / Tools:** Java JAR / IDE compilation
 
 ## Key Features
 
@@ -111,9 +111,9 @@ java -cp bin main.Game [termccinal]
 
 *Note: The game may uncounter unexpected behavior or crashes. And is also not balanced to win at all.*
 
-Mouse Left Clicks: Used extensively across the main menu, tower placement, inventory PC management, and button interactions (speed up, pause, etc.).
-Mouse Right Clicks: Used to remove tower information after left clicked on it.
-Mouse Hover: Hover on the enemy on the left to see details about them on bottom left.
+Mouse Left Clicks: Used extensively across the main menu, tower placement, inventory PC management, and button interactions (speed up, pause, etc.).  
+Mouse Right Clicks: Used to remove tower information after left clicked on it.  
+Mouse Hover: Hover on the enemy on the left to see details about them on bottom left.  
 
 ## Team
 
